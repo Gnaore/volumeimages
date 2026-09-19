@@ -1,1 +1,1 @@
-#C'est pour avoir des images pour mes mails
+#C'est pour avoir des images pour mes mails. Ajout simplement l'image ici et appelle la dans le mail.
